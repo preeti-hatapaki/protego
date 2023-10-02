@@ -1,6 +1,8 @@
 # protego
 Author - Preeti Hatapaki
+<br>
 Protego: COVID-19 analytics tool in Python. User-friendly, secure login. Displays spread data via graphs and maps. Efficient and debugged for reliable use.
+<br>
 /*
 Introduction
 Protego- Covid-19 Helpdesk System is a software application program used to display the analytics of the spread of Covid-19 in India and world through graphs, maps and numerical values.
